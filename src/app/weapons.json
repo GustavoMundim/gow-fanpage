@@ -1,0 +1,154 @@
+[   
+    {
+      "history": "A Lâmina do Olimpo é uma espada divina que deu o poder necessário para Zeus derrotar os Titãs. Ela também é um dos poucos itens (além da Caixa de Pandora e da Manopla de Zeus) que conseguem ferir outros deuses.",
+      "power": [
+        { "name": "Divine Absolution - Absolvição Divina", "description": "Libera uma explosão de energia divina." },
+        { "name": "Divine Retribution - Retribuição Divina", "description": "Reflete ataques inimigos com força divina." },
+        { "name": "Divine Sacrifice - Sacrifício Divino", "description": "Concede poder divino em troca de vitalidade." },
+        { "name": "Anger of the Gods - Ira dos Deuses", "description": "Aumenta temporariamente a força do usuário." },
+        { "name": "Divine Reckoning - Juízo Divino", "description": "Invoca uma tempestade de raios divinos." },
+        { "name": "Rage of Sparta - Fúria de Esparta", "description": "Desperta a fúria absoluta de um guerreiro espartano." }
+      ],
+      "image": "olimpos.png",
+      "background": "bgolimpos.png",
+      "descriptionTag": [
+        {
+          "title": "Lâmina do Olimpo",
+          "description": [
+            { "title": "Poder Maximo", "power": 100 },
+            { "title": "Nivel Maximo", "power": 5 }
+          ]
+        }
+    ]
+    },
+    {
+      "history": "As Lâminas do Caos são as armas principais de Kratos, concedidas por Ares após sua aliança. Elas são lâminas duplas presas a correntes, permitindo ataques rápidos e combos devastadores.",
+      "power": [
+        { "name": "Chain of Destruction - Corrente da Destruição", "description": "Libera um ataque giratório de correntes que destrói múltiplos inimigos." },
+        { "name": "Wrath of the God - Ira do Deus", "description": "Aumenta o dano e a velocidade dos ataques enquanto as lâminas giram." }
+      ],
+      "image": "bladechaos.png",
+      "background": "bgchaos.png",
+      "descriptionTag": [
+        {
+          "title": "Lâminas do Caos",
+          "description": [
+            { "title": "Poder Maximo", "power": 85 },
+            { "title": "Nivel Maximo", "power": 3 }
+          ]
+        }
+      ]
+    },
+    {
+      "history": "A Lâmina de Artemis é uma espada grande e poderosa dada por Artemis. Embora mais lenta que as Lâminas do Caos, causa danos significativos aos inimigos.",
+      "power": [
+        { "name": "Artemis's Fury - Fúria de Artemis", "description": "Desencadeia uma série de ataques rápidos e fortes contra inimigos próximos." },
+        { "name": "Divine Slash - Golpe Divino", "description": "Lança um ataque poderoso que causa grandes danos e pode atingir vários inimigos." }
+      ],
+      "image": "bladeartemis.png",
+      "background": "bgartemis.png",
+      "descriptionTag": [
+        {
+          "title": "Lâmina de Artemis",
+          "description": [
+            { "title": "Poder Maximo", "power": 75 },
+            { "title": "Nivel Maximo", "power": 2 }
+          ]
+        }
+      ]
+    },
+    {
+      "history": "O Machado Leviatã é uma arma mágica infundida com o poder do gelo, introduzida em God of War (2018). Ele pode ser arremessado e retornado à mão de Kratos, sendo eficaz tanto em combate corpo a corpo quanto à distância.",
+      "power": [
+        { "name": "Frost Awakening - Despertar do Gelo", "description": "Libera uma onda de gelo que congela inimigos no impacto." },
+        { "name": "Leviathan Strike - Golpe Leviatã", "description": "Causa um poderoso ataque com o machado, liberando energia gelada ao redor." }
+      ],
+      "background": "bgleviathan.png",
+      "image": "leviathan.png",
+      "descriptionTag": [
+        {
+          "title": "Machado Leviatã",
+          "description": [
+            { "title": "Poder Maximo", "power": 90 },
+            { "title": "Nivel Maximo", "power": 4 }
+          ]
+        }
+      ]
+    },
+    {
+      "history": "Originalmente, a Lança do Destino foi usada pelo Cavaleiro das Trevas, mas Kratos a encontra no corpo de um Grifo morto. Ela está imbuída de cristais roxos e pode desferir golpes mortais — assim como disparar projéteis perfurantes.",
+      "power": [
+        { "name": "Divine Magic - Magia Divina", "description": "Libera uma onda de gelo que congela inimigos no impacto." },
+        { "name": "Size Manipulation  - Manipulação do Tamanho", "description": "Causa um poderoso ataque com o machado, liberando energia gelada ao redor." }
+      ],
+      "background": "bgspear.png",
+      "image": "spear.png",
+      "descriptionTag": [
+        {
+          "title": "Lança do Destino",
+          "description": [
+            { "title": "Poder Maximo", "power": 90 },
+            { "title": "Nivel Maximo", "power": 4 }
+          ]
+        }
+      ]
+    },
+
+    {
+      "history": "A poderosa Manopla de Zeus também consegue ferir outras divindades e foi usada pelo deus do trovão para acorrentar os Titãs. O item é encontrado por Kratos quando ele é enviado ao Submundo pelos cavalos flamejantes de Hélios.",
+      "power": [
+        { "name": "Zelo do Olimpo - Zeal of Olympus", "description": "Libera uma onda de gelo que congela inimigos no impacto." },
+        { "name": "Força do Julgamento  - Force of Judgment ", "description": "Causa um poderoso ataque com o machado, liberando energia gelada ao redor." }
+      ],
+      "background": "bgzeus.png",
+      "image": "zeus.png",
+      "descriptionTag": [
+        {
+          "title": "Manoplas de Zeus",
+          "description": [
+            { "title": "Poder Maximo", "power": 90 },
+            { "title": "Nivel Maximo", "power": 4 }
+          ]
+        }
+      ]
+    },
+    {
+      "history": "As Lâminas do Exílio foram criadas pelo espírito de Atena no início de God of War III, logo após Kratos cair no Rio Estige e as almas inutilizarem as Lâminas de Atena. Seu poder mágico convoca as lanças e os escudos dos irmãos espartanos exilados, que protegem o deus da guerra e causam dano massivo nos inimigos.",
+      "power": [
+        { "name": "Army of Sparta  - Zeal of Olympus", "description": "Libera uma onda de gelo que congela inimigos no impacto." },
+        { "name": "Cyclone of Chaos  - Force of Judgment ", "description": "Causa um poderoso ataque com o machado, liberando energia gelada ao redor." },
+        { "name": "Rampage of the Furies – Fúria das Fúrias ", "description": "Causa um poderoso ataque com o machado, liberando energia gelada ao redor." }
+      ],
+      "background": "bgexilio.png",
+      "image": "exilio.png",
+      "descriptionTag": [
+        {
+          "title": "Lâminas do Exílio",
+          "description": [
+            { "title": "Poder Maximo", "power": 90 },
+            { "title": "Nivel Maximo", "power": 4 }
+          ]
+        }
+      ]
+    },
+    {
+      "history": "Kratos consegue as Garras de Hades durante sua luta contra o deus do submundo no terceiro jogo. Seu poder é semelhante aos das Lâminas do Exílio, porém, os movimentos são executados mais lentamente — isso sem mencionar o poder de invocar almas condenadas para o combate.",
+      "power": [
+        { "name": "Army of Sparta  - Zeal of Olympus", "description": "Libera uma onda de gelo que congela inimigos no impacto." },
+        { "name": "Cyclone of Chaos  - Force of Judgment ", "description": "Causa um poderoso ataque com o machado, liberando energia gelada ao redor." },
+        { "name": "Rampage of the Furies – Fúria das Fúrias ", "description": "Causa um poderoso ataque com o machado, liberando energia gelada ao redor." }
+      ],
+      "background": "bghades.png",
+      "image": "hades.png",
+      "descriptionTag": [
+        {
+          "title": "Garras de Hades",
+          "description": [
+            { "title": "Poder Maximo", "power": 90 },
+            { "title": "Nivel Maximo", "power": 4 }
+          ]
+        }
+      ]
+    }
+  ]
+  

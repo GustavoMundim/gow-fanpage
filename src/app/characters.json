@@ -1,0 +1,202 @@
+[
+    {
+        "name": "Kratos",
+        "description": "Protagonista da série, Kratos é um guerreiro espartano que se tornou o Deus da Guerra. Após ser enganado por Ares e matar sua própria família, ele jura vingança contra os deuses do Olimpo. Depois de destruir o Olimpo, ele recomeça sua vida no reino nórdico, onde se torna pai de Atreus. Ao lado de seu filho, Kratos enfrenta novos desafios, lidando com o peso de seu passado e tentando ser um melhor pai, enquanto navega pelas complexas relações entre deuses e monstros.",
+        "image": "cardkratos.png",
+        "type": "greek"
+    },
+    {
+        "name": "Cronos",
+        "description": "Titã e pai de Zeus, Poseidon e Hades. Cronos governava os Titãs até ser destronado por Zeus, que o aprisionou no Tártaro. Ele é o último dos Titãs a enfrentar Kratos em God of War III, e sua batalha com o protagonista se desenrola em uma escala monumental. A figura de Cronos é marcada pela tragédia, simbolizando o fim da era dos Titãs e o início da supremacia dos deuses do Olimpo.",
+        "image": "cardcronos.png",
+        "type": "greek"
+    },
+    {
+        "name": "Atlas",
+        "description": "Titã condenado a carregar os céus em seus ombros como punição por sua rebelião contra Zeus. Em God of War: Chains of Olympus, Atlas auxilia Kratos contra a rainha Perséfone e tem um papel importante na luta contra os inimigos que ameaçam o equilíbrio do mundo. Sua história é marcada pela tragédia e pelo sacrifício, sendo uma das figuras mais poderosas da mitologia grega.",
+        "image": "cardatlas.png",
+        "type": "greek"
+    },
+    {
+        "name": "Zeus",
+        "description": "Pai de Kratos e governante do Olimpo. Zeus é um dos principais antagonistas da saga grega de God of War, movido pelo medo de que seu filho Kratos o destrua, assim como ele fez com seu próprio pai, Cronos. Zeus representa a traição e a manipulação, e seu relacionamento com Kratos se torna cada vez mais tenso, culminando em uma batalha épica que visa controlar o destino do mundo.",
+        "image": "cardzeus.png",
+        "type": "greek"
+    },
+    {
+        "name": "Poseidon",
+        "description": "Deus dos mares e um dos primeiros deuses a ser enfrentado por Kratos no Monte Olimpo. Poseidon é imensamente poderoso e usa criaturas marinhas gigantescas para lutar. Sua batalha com Kratos em God of War III é memorável, culminando com a destruição dos oceanos e a queda de seu império. A morte de Poseidon reflete a destruição da antiga ordem dos deuses do Olimpo.",
+        "image": "cardposeidon.png",
+        "type": "greek"
+    },
+    {
+        "name": "Hades",
+        "description": "Deus do submundo e irmão de Zeus e Poseidon. Hades busca vingança contra Kratos pela morte de sua esposa, Perséfone, e suas garras mortais são usadas contra Kratos antes de ser derrotado. A luta contra Hades em God of War III é marcada por temas de morte, destino e vingança, refletindo o poder e a ambição do Deus do Submundo.",
+        "image": "cardhades.png",
+        "type": "greek"
+    },
+    {
+        "name": "Ares",
+        "description": "Deus da Guerra original e principal antagonista do primeiro jogo. Ares manipula Kratos, levando-o a matar sua própria família, o que desencadeia a jornada de vingança do espartano. Kratos eventualmente destrona Ares, assumindo seu lugar como o novo Deus da Guerra, em uma história de traição, dor e redenção.",
+        "image": "cardares.png",
+        "type": "greek"
+    },
+    {
+        "name": "Athena",
+        "description": "Deusa da sabedoria, Athena guia Kratos ao longo de grande parte de sua jornada. Embora pareça ser uma aliada, suas ações estão sempre envoltas em mistério e intenções ocultas. Em God of War III, revela-se que seus verdadeiros interesses estavam ligados à busca pelo poder deixado por Kratos. Sua relação com o protagonista é complexa, refletindo o conflito entre destino, sabedoria e ambição.",
+        "image": "cardathena.png",
+        "type": "greek"
+    },
+    {
+        "name": "Helios",
+        "description": "Deus do Sol e aliado dos deuses do Olimpo. Ele é uma figura importante na trama de God of War III, onde é brutalmente decapitado por Kratos. Sua cabeça, após ser removida, serve como uma lanterna para o protagonista, simbolizando a queda dos deuses do Olimpo e o uso do poder divino por Kratos de maneira impiedosa.",
+        "image": "cardhelios.png",
+        "type": "greek"
+    },
+    {
+        "name": "Hermes",
+        "description": "Mensageiro dos deuses, Hermes é conhecido por sua velocidade. Em God of War III, ele se torna um inimigo de Kratos, provocando-o antes de ser morto. Suas botas são então usadas por Kratos para aumentar sua própria velocidade, simbolizando a apropriação de poderes divinos pelo protagonista em sua busca por vingança contra o Olimpo.",
+        "image": "cardhermes.png",
+        "type": "greek"
+    },
+    {
+        "name": "Hera",
+        "description": "Rainha dos deuses e esposa de Zeus. Hera despreza Kratos e Atreus, tratando-os com arrogância. Ela é uma das figuras mais desprezíveis na saga, não se importando com os conflitos que acontecem ao seu redor. Em God of War III, ela se entrega à bebida e à indiferença, um reflexo de sua perda de poder e interesse na guerra.",
+        "image": "cardhera.png",
+        "type": "greek"
+    },
+    {
+        "name": "Afrodite",
+        "description": "Deusa do amor e da beleza, Afrodite é uma das poucas divindades que não enfrentam Kratos diretamente. Sua interação com o protagonista em God of War III é opcional, onde ela seduz Kratos, representando o desejo e a sedução como um dos aspectos da mitologia grega, em contraste com a brutalidade do resto dos deuses.",
+        "image": "cardafrodite.png",
+        "type": "greek"
+    },
+    {
+        "name": "Thanatos",
+        "description": "Deus da Morte, Thanatos é o antagonista final de God of War: Ghost of Sparta. Ele sequestra Deimos, irmão de Kratos, e enfrenta o espartano em uma batalha brutal. Thanatos simboliza a inevitabilidade da morte e o destino que Kratos tenta desafiar ao longo de sua jornada.",
+        "image": "cardthanatos.png",
+        "type": "greek"
+    },
+    {
+        "name": "Persefone",
+        "description": "Rainha do submundo, Persefone é a vilã de God of War: Chains of Olympus. Ela deseja o fim do mundo devido ao seu sofrimento no submundo, mas é impedida por Kratos. Sua história reflete o sofrimento e a resistência, oferecendo uma perspectiva única sobre a natureza da morte e da redenção.",
+        "image": "cardpersefone.png",
+        "type": "greek"
+    },
+    {
+        "name": "Eos",
+        "description": "Irmã de Helios e deusa do amanhecer. Em God of War: Chains of Olympus, Eos desempenha um papel importante ao guiar Kratos pelas Cavernas do Olimpo. Sua ajuda é crucial para que Kratos liberte os Corcéis de Fogo de Helios e obtenha a habilidade Luz do Amanhecer, um poder que será vital em sua missão. Seu destino após o jogo é desconhecido.",
+        "image": "cardeos.png",
+        "type": "greek"
+    },
+    {
+        "name": "Hefesto",
+        "description": "Hefesto é o deus da forja, criador da Caixa de Pandora e marido de Afrodite. Em God of War III, ele é forçado a ajudar Kratos, apesar de sua lealdade a Zeus. Sua história é marcada pela tragédia, com sua relação com Afrodite sendo um reflexo de seu próprio sofrimento e de sua criação forçada da Caixa de Pandora.",
+        "image": "cardhefesto.png",
+        "type": "greek"
+    },
+    {
+        "name": "Gaia",
+        "description": "Gaia é a mãe dos Titãs e avó de Zeus. Ela tem um papel fundamental na história de God of War, ao salvar Kratos após sua morte e enviá-lo em uma missão para encontrar as Irmãs do Destino. Gaia representa a força primordial da natureza, mas também é uma figura tragicamente traída por Zeus, que a baniu do Olimpo.",
+        "image": "cardgaia.png",
+        "type": "greek"
+    },
+    {
+        "name": "Hercules",
+        "description": "Hércules, filho de Zeus, é retratado de forma diferente na série God of War. Em God of War III, ele é enviado por Hera para impedir Kratos de alcançar Pandora. Movido por ciúmes e ressentimento, Hércules tenta assumir o título de Deus da Guerra, mas é derrotado e morto por Kratos em uma batalha épica que simboliza a decadência da antiga linhagem divina.",
+        "image": "cardhercules.png",
+        "type": "greek"
+    },
+    {
+        "name": "Typhon",
+        "description": "Typhon é o filho mais jovem de Gaia e uma das figuras mais misteriosas da mitologia grega. Ele foi aprisionado por Zeus após a Grande Guerra. Em God of War II, Kratos enfrenta Typhon em uma batalha para recuperar o arco Bane, mas o Titã é deixado para trás, sem reaparecer nas sequências.",
+        "image": "cardtyphon.png",
+        "type": "greek"
+    },
+    {
+        "name": "Prometheus",
+        "description": "Prometheus, na mitologia grega, é o Titã que roubou o fogo dos deuses e o deu aos homens. Ele é eternamente punido por Zeus, sendo acorrentado a uma rocha, onde uma águia devora seu fígado. Em God of War II, Prometheus tem um papel importante ao ajudar Kratos a adquirir a Caixa de Pandora. Sua história é uma metáfora para o sacrifício e a luta pela liberdade.",
+        "image": "cardprometheus.png",
+        "type": "greek"
+    },
+    {
+        "name": "Baldur",
+        "description": "Baldur é o principal antagonista de God of War (2018), filho de Odin e Freya. Sua imortalidade impede que ele sinta dor ou prazer, o que o leva a se tornar obcecado pela quebra de sua maldição. Baldur é uma figura trágica, preso em uma maldição que o impede de experimentar a verdadeira vida e a verdadeira morte.",
+        "image": "cardbaldur.png",
+        "type": "norse"
+    },
+    {
+        "name": "Freya",
+        "description": "Deusa Vanir e mãe de Baldur, Freya é inicialmente uma aliada de Kratos, mas se torna sua inimiga após a morte de seu filho. Sua dor e raiva a levam a jurar vingança contra Kratos, fazendo dela uma das personagens mais complexas da mitologia nórdica em God of War.",
+        "image": "cardfreya.png",
+        "type": "norse"
+    },
+    {
+        "name": "Odin",
+        "description": "Odin, o Pai de Todos, é o governante de Asgard e o principal antagonista de God of War: Ragnarök. Astuto e manipulador, Odin busca evitar o destino profetizado, manipulando as circunstâncias para proteger seu reino e sua linhagem. Sua relação com Kratos e Atreus é marcada pela tentativa de controlar e manipular as forças cósmicas para evitar o fim do mundo.",
+        "image": "cardodin.png",
+        "type": "norse"
+    },
+    {
+        "name": "Atreus",
+        "description": "Atreus é o filho de Kratos e Faye, também conhecido como Loki na mitologia nórdica. Durante a jornada de seu pai, Atreus vai descobrindo sua verdadeira origem e seu papel no destino dos deuses. Ele é curioso, determinado e possui habilidades arcanas herdadas de sua mãe, o que o coloca em uma posição única para alterar o curso do Ragnarök.",
+        "image": "cardatreus.jpg",
+        "type": "norse"
+    },
+    {
+        "name": "Thor",
+        "description": "Thor é o filho de Odin e o Deus do Trovão. Em God of War, ele é retratado como um guerreiro brutal e implacável, mas também como um homem marcado por conflitos internos e pela obediência ao seu pai. Thor é uma figura complexa, atormentada por suas próprias falhas e pela pressão de ser o herdeiro de Odin.",
+        "image": "cardthor.png",
+        "type": "norse"
+    },
+    {
+        "name": "Heimdall",
+        "description": "Heimdall é o guardião da ponte Bifrost e um servo leal de Odin. Conhecido por sua habilidade de prever ataques e ler o futuro, Heimdall se torna um dos principais inimigos de Kratos em God of War: Ragnarök. Sua habilidade de antecipar os movimentos de Kratos torna a luta contra ele ainda mais desafiadora.",
+        "image": "cardheimdall.png",
+        "type": "norse"
+    },
+    {
+        "name": "Mimir",
+        "description": "Mimir é o homem mais sábio vivo, aprisionado por Odin em uma árvore. Após ser libertado por Kratos, Mimir se torna seu conselheiro e amigo. Ele fornece valiosas informações sobre os deuses nórdicos e suas intrincadas relações, além de ser uma fonte constante de sabedoria para Kratos e Atreus.",
+        "image": "cardmimir.png",
+        "type": "norse"
+    },
+    {
+        "name": "Tyr",
+        "description": "Tyr é o Deus da Guerra nórdico, conhecido por sua sabedoria e diplomacia. Depois de ser aprisionado por Odin, Tyr se torna uma figura misteriosa. Kratos e Atreus o buscam como um possível aliado durante a sua jornada, e Tyr se mostra um personagem fundamental na luta contra o destino do Ragnarök.",
+        "image": "cardtyr.png",
+        "type": "norse"
+    },
+    {
+        "name": "Surtr",
+        "description": "Surtr é o Gigante de Fogo destinado a destruir Asgard durante o Ragnarök. Ele desempenha um papel crucial na batalha final de God of War: Ragnarök, sendo uma das figuras chave na destruição do mundo dos deuses.",
+        "image": "cardsurtr.png",
+        "type": "norse"
+    },
+    {
+        "name": "Jörmungandr",
+        "description": "Jörmungandr, a Serpente do Mundo, é um dos filhos de Loki. Gigantesca e misteriosa, ela tem um papel central no Ragnarök, onde está destinada a lutar contra Thor. Sua relação com Kratos é complexa, sendo uma criatura de enorme poder e um elo importante entre os deuses nórdicos.",
+        "image": "cardserpent.png",
+        "type": "norse"
+    },
+    {
+        "name": "Nidhogg",
+        "description": "Nidhogg é o dragão guardião das raízes da Yggdrasil. Ele é um dos antagonistas em God of War, e Kratos o enfrenta para libertar Freya da magia de Odin. Nidhogg é uma criatura poderosa e simbólica do caos e da destruição iminente.",
+        "image": "cardnidhogg.png",
+        "type": "norse"
+    },
+    {
+        "name": "Sif",
+        "description": "Sif é a esposa de Thor e uma das deusas nórdicas. Embora sua presença seja secundária, ela desempenha um papel crucial no enredo de God of War: Ragnarök, onde sua conexão com Thor é explorada. Sif é uma mulher forte, mas também marcada pelo sofrimento causado pelas ações de seu marido.",
+        "image": "cardsif.png",
+        "type": "norse"
+    },
+    {
+        "name": "Modi",
+        "description": "Modi é o filho mais novo de Thor, aparecendo como um antagonista em *God of War* (2018). Ele, junto com seu irmão mais velho Magni, segue a ordem de Odin para capturar e matar Kratos. Modi é retratado como sendo impulsivo e arrogante, acreditando que a sua força herdada de Thor o torna invencível. Após a morte de seu irmão Magni, Modi se torna mais desesperado e obcecado por vingança contra Kratos. Em um confronto com o espartano, ele acaba sendo derrotado e morto. Sua morte simboliza a queda da geração mais jovem de Aesir.",
+        "image": "cardmodi.png",
+        "type": "norse"
+    }
+    
+
+]
